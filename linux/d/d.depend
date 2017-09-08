@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1482051804 source:c:\users\hzau\desktop\ocdeblock\d\main.cpp
-	<cstdio>
-	<algorithm>
-	<iostream>
-	<cstring>
-
