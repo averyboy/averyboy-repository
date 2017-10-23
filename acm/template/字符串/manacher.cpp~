@@ -1,4 +1,23 @@
-#include<bits/stdc++.h>
+/*
+    title:
+    description:
+    author: averyboy
+    time:
+    version:
+*/
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+#include<string>
+#include<cmath>
+#include<map>
+#include<vector>
+#include<queue>
+#include<iomanip>
+#include<set>
+#include<cctype>
+#include<ctime>
 #define INF 0x3f3f3f3f
 const double PI=acos(-1.0);
 using namespace std;
